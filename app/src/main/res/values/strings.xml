@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">NSE Live Stock Price</string>
+    <string-array name="stockList">
+        <item>Nifty 50</item>
+        <item>Nifty 100</item>
+    </string-array>
+    <string-array name="exchangeList">
+        <item>NIFTY 50</item>
+        <item>NIFTY NEXT 50</item>
+        <item>NIFTY 100</item>
+        <item>NIFTY 200</item>
+        <!--        <item>NIFTY 500</item>-->
+        <item>NIFTY MIDCAP 50</item>
+        <item>NIFTY MIDCAP 100</item>
+        <item>NIFTY MIDCAP 150</item>
+        <item>NIFTY SMLCAP 50</item>
+        <item>NIFTY SMLCAP 100</item>
+        <item>NIFTY SMLCAP 250</item>
+        <!--        <item>NIFTY MIDSML 400</item>-->
+        <item>NIFTY BANK</item>
+        <item>NIFTY AUTO</item>
+        <item>NIFTY FINSERV25 50</item>
+        <item>NIFTY FIN SERVICE</item>
+        <item>NIFTY FMCG</item>
+        <item>NIFTY IT</item>
+        <item>NIFTY MEDIA</item>
+        <item>NIFTY METAL</item>
+        <item>NIFTY INFRA</item>
+        <item>NIFTY ENERGY</item>
+        <item>NIFTY PHARMA</item>
+        <item>NIFTY PSU BANK</item>
+        <item>NIFTY PVT BANK</item>
+        <item>NIFTY REALTY</item>
+        <item>NIFTY MNC</item>
+        <item>NIFTY PSE</item>
+        <item>NIFTY SERV SECTOR</item>
+    </string-array>
+</resources>
